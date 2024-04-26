@@ -1,0 +1,29 @@
+{
+  "name": "solucion",
+  "version": "1.0.0",
+  "description": "prueba tecnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afvenera/pruebatecnica.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Andres Venera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Afvenera/pruebatecnica/issues"
+  },
+  "homepage": "https://github.com/Afvenera/pruebatecnica#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.2",
+    "react-scripts": "^5.0.1"
+  }
+}
